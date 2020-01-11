@@ -7,48 +7,47 @@ nkurtov@gmail.com
 
 ## Experience  
 
-Oct 2018 - Present  
-**Google, Tech Lead of YouTube Core SRE**  
+**Google, Tech Lead of YouTube Core SRE** - Oct 2018 - Present  
+
 Keeping youtube.com running by improving end-to-end success metrics, onboarding multiple new systems. Defining quarterly goals for the team, and getting new team members oncall.
 
-Apr 2016 - Sep 2018  
-**Google, Knowledge Graph infrastructure**
+**Google, Knowledge Graph infrastructure** - Apr 2016 - Sep 2018  
+
 Developed a new critical piece of infrastructure, improving reliability and throughput of the system. Designed and developed multiple components of the system, APIs for other teams.
 
-Dec 2014 - Mar 2016  
-**Google, Knowledge Graph quality**  
+**Google, Knowledge Graph quality** - Dec 2014 - Mar 2016  
+
 Improved Machine learning reconciliation of music entities, affecting 0.32% of all web search traffic.
 
-Nov 2013 - Nov 2014  
-**Google, Geo logs processing**
+**Google, Geo logs processing** - Nov 2013 - Nov 2014  
+
 Extracted new metrics from logs and made them available to developers. Was the project lead. The project is active to this day, its data is integrated into Google My Business. [Example](https://s3.amazonaws.com/images.seroundtable.com/google-my-business-directions-heatmap-insights-1521122194.jpg).
 
-Oct 2012 - Oct 2013  
-**Google, Geo data quality**  
+**Google, Geo data quality** - Oct 2012 - Oct 2013  
 Designed and implemented a high-precision machine learning system, which greatly decreased the rate of duplicate business listings on the map of Russia.  
 
-Aug 2011 - Sep 2012  
-**Google Offers**
+**Google Offers** - Aug 2011 - Sep 2012  
+
 Developed a system for personalized offers targeting both for email distribution and online distribution.  
 
-April 2010 - June 2011
-**Software Engineer at Intel**
+**Software Engineer at Intel** - April 2010 - June 2011
+
 Identified opportunities of improving performance of Intel C++ Compiler on Intel Atom microarchitecture on CPU2000 and EEMBC 1.1 suites, and of newnew microarchitectures on CPU2006 suites.  
   
-May 2008 - Mar 2010
-**Intern Software Engineer at Intel**
+**Intern Software Engineer at Intel** - May 2008 - Mar 2010
+
 Developed parts of [Intel Concurrent Collections for C++](https://icnc.github.io/). Developed benchmarks and improved performance and scalability of the library.
 
-Mar 2008 – May 2008
-**Intel Student Laboratory**
+**Intel Student Laboratory** - Mar 2008 - May 2008
+
 Added support for edge profiling in Apache Harmony Jitrino.JET compiler.  
   
-Apr 2007 – Feb 2008
-**xored software, Inc.**
+**xored software, Inc.** - Apr 2007 - Feb 2008
+
 Quality Assurance, Webmaster, managed Continuous Integration and administered Debian servers.
   
-Jul 2006 – Jan 2007
-**SWSoft Student Laboratory**
+**SWSoft Student Laboratory** - Jul 2006 - Jan 2007
+
 Developed a physics engine for one game, and level generation and sound programming for another game.
 
 ## Open-source projects  
