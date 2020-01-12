@@ -1,56 +1,55 @@
-# Nikolay Kurtov  
-Senior SWE-SRE at YouTube
-
-nkurtov@gmail.com
-
+# Nikolay Kurtov
+**Senior SWE-SRE at YouTube**  
+nkurtov@gmail.com  
 +41795061891
 
-## Experience  
+## Experience
 
-**Google, Tech Lead of YouTube Core SRE** - Oct 2018 - Present  
+**Tech Lead of YouTube Core SRE at Google**  
+Oct 2018 - Present  
+Keeping youtube.com running by improving end-to-end success metrics, managing multiple infrastructure migrations, onboarding new systems. Defining quarterly goals for the team, and getting new team members oncall.
 
-Keeping youtube.com running by improving end-to-end success metrics, onboarding multiple new systems. Defining quarterly goals for the team, and getting new team members oncall.
-
-**Google, Knowledge Graph infrastructure** - Apr 2016 - Sep 2018  
-
+**Knowledge Graph infrastructure at Google**  
+Apr 2016 - Sep 2018  
 Developed a new critical piece of infrastructure, improving reliability and throughput of the system. Designed and developed multiple components of the system, APIs for other teams.
 
-**Google, Knowledge Graph quality** - Dec 2014 - Mar 2016  
-
+**Knowledge Graph quality at Google**  
+Dec 2014 - Mar 2016  
 Improved Machine learning reconciliation of music entities, affecting 0.32% of all web search traffic.
 
-**Google, Geo logs processing** - Nov 2013 - Nov 2014  
-
+**Geo logs processing at Google**  
+Nov 2013 - Nov 2014  
 Extracted new metrics from logs and made them available to developers. Was the project lead. The project is active to this day, its data is integrated into Google My Business. [Example](https://s3.amazonaws.com/images.seroundtable.com/google-my-business-directions-heatmap-insights-1521122194.jpg).
 
-**Google, Geo data quality** - Oct 2012 - Oct 2013  
-Designed and implemented a high-precision machine learning system, which greatly decreased the rate of duplicate business listings on the map of Russia.  
+**Geo data quality at Google**  
+Oct 2012 - Oct 2013  
+Designed and implemented a high-precision machine learning system, which greatly decreased the rate of duplicate business listings on the map of Russia.
 
-**Google Offers** - Aug 2011 - Sep 2012  
+**Google Offers**  
+Aug 2011 - Sep 2012  
+Developed a system for personalized offers targeting both for email distribution and online distribution.
 
-Developed a system for personalized offers targeting both for email distribution and online distribution.  
+**Software Engineer at Intel**  
+April 2010 - June 2011  
+Identified opportunities of improving performance of Intel C++ Compiler on Intel Atom microarchitecture on CPU2000 and EEMBC 1.1 suites, and of newnew microarchitectures on CPU2006 suites.
 
-**Software Engineer at Intel** - April 2010 - June 2011
-
-Identified opportunities of improving performance of Intel C++ Compiler on Intel Atom microarchitecture on CPU2000 and EEMBC 1.1 suites, and of newnew microarchitectures on CPU2006 suites.  
-  
-**Intern Software Engineer at Intel** - May 2008 - Mar 2010
-
+**Intern Software Engineer at Intel**  
+May 2008 - Mar 2010  
 Developed parts of [Intel Concurrent Collections for C++](https://icnc.github.io/). Developed benchmarks and improved performance and scalability of the library.
 
-**Intel Student Laboratory** - Mar 2008 - May 2008
+**Intel Student Laboratory**  
+Mar 2008 - May 2008  
+Added support for edge profiling in Apache Harmony Jitrino.JET compiler.
 
-Added support for edge profiling in Apache Harmony Jitrino.JET compiler.  
-  
-**xored software, Inc.** - Apr 2007 - Feb 2008
-
+**xored software, Inc.**  
+Apr 2007 - Feb 2008  
 Quality Assurance, Webmaster, managed Continuous Integration and administered Debian servers.
-  
-**SWSoft Student Laboratory** - Jul 2006 - Jan 2007
 
+**SWSoft Student Laboratory**  
+Jul 2006 - Jan 2007  
 Developed a physics engine for one game, and level generation and sound programming for another game.
 
-## Open-source projects  
+## Open-source projects
 
 *   **Hive Web** - Web client for playing [Hive](https://en.wikipedia.org/wiki/Hive_(game)), written in Haskell. https://hub.darcs.net/orfest/hiveweb
 *   **AppleSID** - tracks signal amplitude of VLF radio stations to detect Solar Flares. Written in Rust. https://nest.pijul.com/orfest/applesid
@@ -59,7 +58,7 @@ Developed a physics engine for one game, and level generation and sound programm
 *   **OnlineJudge CLI** - a set of Python tools for command-line access to online judge systems: [UVa](http://onlinejudge.com), [Timus](http://acm.timus.ru), [Codeforces](http://codeforces.com). https://bitbucket.org/orfest/onlinejudge-cli/
 *   **TSP Flaming** - solution of the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) using the Simulated Annealing method. http://tspflaming.sourceforge.net
 
-## Skills  
+## Skills
 
 *   6 years of experience with C++, 1 year of experience with Python and Go
 *   Fluency in Haskell, Rust and Java
@@ -68,37 +67,46 @@ Developed a physics engine for one game, and level generation and sound programm
 *   Data structures, algorithms and complexity analysis
 *   Network programming
 
-## Education  
-**MS in Computer Science**
+## Education
 
-2009 - 2011, [Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%).  
+**MS in Computer Science**, 2009 - 2011  
+[Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%)
 
-**BS in Computer Science**
+**BS in Computer Science**, 2005 - 2009  
+[Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%)
 
-2005 - 2009, [Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%).  
+## Publications
 
-## Publications  
-* **"Optimization of performance and quality of code generated by Apache Harmony compilers"**, materials of XLVI International Scientific Students Conference “Students and Progress in Science and Technology”, Apr 2008.  
-* **"Intel(R) Concurrent Collections for C++ - a model for parallel programming"**, materials of Software Engineering Conference (Russia) 2008 “Path to Competitive Advantage”, Oct 2008.  
-* **"Scheduler tuning in a parallel programming model Intel(R) Concurrent Collections"**, materials of XLVII International Scientific Students Conference “Students and Progress in Science and Technology”, Apr 2009.
-* **"Intel(R) Concurrent Collections - exploiting implicit parallelism"**, materials of workshop “Science Intensive Applied Software” of Seventh International Andrei Ershov Memorial Conference “Perspectives of System Informatics”, Jun 2009.
-* **"Optimal scheduling of parallel tasks for multicore processors"**, materials of XLVIII Internation Scientific Students Conference “Students and Progress in Science and Technology”, Apr 2010.  
-  
+**Optimization of performance and quality of code generated by Apache Harmony compilers**  
+Materials of XLVI International Scientific Students Conference “Students and Progress in Science and Technology”, Apr 2008
+
+**Intel(R) Concurrent Collections for C++ - a model for parallel programming**  
+Materials of Software Engineering Conference (Russia) 2008 “Path to Competitive Advantage”, Oct 2008
+
+**Scheduler tuning in a parallel programming model Intel(R) Concurrent Collections**  
+Materials of XLVII International Scientific Students Conference “Students and Progress in Science and Technology”, Apr 2009
+
+**Intel(R) Concurrent Collections - exploiting implicit parallelism**  
+Materials of workshop “Science Intensive Applied Software” of Seventh International Andrei Ershov Memorial Conference “Perspectives of System Informatics”, Jun 2009
+
+**Optimal scheduling of parallel tasks for multicore processors**  
+Materials of XLVIII Internation Scientific Students Conference “Students and Progress in Science and Technology”, Apr 2010
+
 ## Hobbies
 
 *   Running, marathon personal best time - 3h25m
-*   Bouldering 
+*   Bouldering
 *   Astronomy. [Built a solar projection telescope](https://www.reddit.com/r/telescopes/comments/caxjjd/diy_sunspotter/)
 
 ## Programming Competitions
 
-*   Finalist of ACM ICPC World Finals 2010 in Harbin 
+*   Finalist of ACM ICPC World Finals 2010 in Harbin
 *   Finalist of ACM ICPC World Finals 2011 in Orlando
 *   Finalist of Russian Code Cup 2011
 *   Finalist of Yandex Open 2010
-  
-## Languages  
 
-*   English - fluent  
-*   German - intermediate (B1)  
+## Languages
+
+*   English - fluent
+*   German - intermediate (B1)
 *   Russian - native speaker
