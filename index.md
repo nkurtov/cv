@@ -1,12 +1,11 @@
 # Nikolay Kurtov
-**Senior Software Engineer at Pagoda (NEAR Protocol)**  
-nkurtov@gmail.com  
+**Senior Software Engineer at Pagoda (NEAR Protocol)**
+nkurtov@gmail.com
 +41795061891
 
 ## Experience
 
-**Tech Lead of the Node team at Pagoda (Near Protocol)**
-July 2021 - Present
+**Tech Lead - Node Team - NEAR Protocol** July 2021 - Present
 
 * Re-designed and implemented the new State Sync: https://gov.near.org/t/protocol-reinventing-state-sync/34567
 * Made releases smoother: fewer incidents and better experience for the community
@@ -14,52 +13,42 @@ July 2021 - Present
 * Communicated with the community validators over multiple channels
 * For code contributions see https://github.com/nikurt
 
-**Tech Lead of YouTube Core SRE at Google**  
-2018 - June 2021
+**Tech Lead of YouTube Core SRE at Google** 2018 - June 2021
+
 Improved reliability and efficiency of `youtube.com` by:
 
 * Driving end-to-end success metrics up
 * Developing a dependency management framework for C++ micro-services
 * Getting new services production-ready and onboarding them to SRE
 
-**Knowledge Graph infrastructure at Google**  
-2016 - 2018  
+**Knowledge Graph infrastructure at Google** 2016 - 2018
 Developed a new critical piece of infrastructure, improving reliability and throughput of the system. Designed and developed multiple components of the system, APIs for other teams.
 
-**Knowledge Graph quality at Google**  
-2015  
+**Knowledge Graph quality at Google** 2015
 Improved Machine learning models reconciling music entities, affecting 0.3% of all web search traffic.
 
-**Geo logs processing at Google**  
-2014  
+**Geo logs processing at Google** 2014
 Extracted new metrics from usage logs and made them easily accessible to developers.
 
-**Geo data quality at Google**  
-2013  
+**Geo data quality at Google** 2013
 Designed and implemented a high-precision machine learning system, removed duplicate business listings from the map of Russia.
 
-**Google Offers**  
-2011 - 2012  
+**Google Offers** 2011 - 2012
 Developed a system for personalized offers targeting both for email distribution and online distribution.
 
-**Software Engineer at Intel**  
-2010 - 2011  
+**Software Engineer at Intel** 2010 - 2011
 Optimized Intel C++ Compiler for benchmarks CPU2000 and EEMBC1.1 on Atom
 
-**Intern Software Engineer at Intel**  
-2008 - 2010  
+**Intern Software Engineer at Intel** 2008 - 2010
 Developed distributed memory runtime for [Intel Concurrent Collections for C++](https://icnc.github.io/).
 
-**Intel Student Laboratory**  
-2008  
+**Intel Student Laboratory** 2008
 Added support for edge profiling in Apache Harmony Jitrino.JET compiler.
 
-**xored software**  
-2007  
+**xored software** 2007
 Quality Assurance, Webmaster, managed Continuous Integration and administered Debian servers.
 
-**SWSoft Student Laboratory**  
-2006  
+**SWSoft Student Laboratory** 2006
 Developed a 3D-physics engine for one game, and level generation and sound programming for another game.
 
 ## Skills
@@ -87,10 +76,10 @@ Developed a 3D-physics engine for one game, and level generation and sound progr
 
 ## Education
 
-**MS in Computer Science**, 2009 - 2011  
+**MS in Computer Science**, 2009 - 2011
 [Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%)
 
-**BS in Computer Science**, 2005 - 2009  
+**BS in Computer Science**, 2005 - 2009
 [Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%)
 
 ## Hobbies
