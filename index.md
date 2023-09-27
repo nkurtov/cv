@@ -1,12 +1,21 @@
 # Nikolay Kurtov
-**Senior SWE-SRE at YouTube**  
+**Senior Software Engineer at Pagoda (NEAR Protocol)**  
 nkurtov@gmail.com  
 +41795061891
 
 ## Experience
 
+**Tech Lead of the Node team at Pagoda (Near Protocol)**
+July 2021 - Present
+
+* Re-designed and implemented the new State Sync: https://gov.near.org/t/protocol-reinventing-state-sync/34567
+* Made releases smoother: fewer incidents and better experience for the community
+* Dramatically improved monitoring of the nodes: metrics, logs, tracing information (Grafana Tempo), monitoring of community nodes (needs opt-in)
+* Communicated with the community validators over multiple channels
+* For code contributions see https://github.com/nikurt
+
 **Tech Lead of YouTube Core SRE at Google**  
-Oct 2018 - Present  
+2018 - June 2021
 Improved reliability and efficiency of `youtube.com` by:
 
 * Driving end-to-end success metrics up
@@ -55,10 +64,12 @@ Developed a 3D-physics engine for one game, and level generation and sound progr
 
 ## Skills
 
+* 2 years of experience with Rust
 * 14 years of experience with C++
 * 3 years of experience with Python
 * 1 year of experience with Go and Java
-* Fluency in Haskell, Rust and Java
+* Fluency in Haskell and Java
+* Understand how some Blockchains work
 * Software reliability engineering
 * Large-scale systems design
 * Data structures, algorithms and complexity analysis
@@ -84,8 +95,9 @@ Developed a 3D-physics engine for one game, and level generation and sound progr
 
 ## Hobbies
 
+*   Swordfighting (HEMA). Won a cup and a 2nd place medal. Give saber fencing lessons. Entertained crowds by swordfighting.
 *   Running, Marathon personal best time - 3h25m
-*   Bouldering
+*   Climbing, Bouldering
 *   Astronomy. [Built a solar projection telescope](https://www.reddit.com/r/telescopes/comments/caxjjd/diy_sunspotter/)
 
 ## Programming Competitions
@@ -93,9 +105,3 @@ Developed a 3D-physics engine for one game, and level generation and sound progr
 1. 14th place at the ACM ICPC World Finals 2010 in Harbin
 1. 27th place at the ACM ICPC World Finals 2011 in Orlando
 1. 11th place at the Yandex Open 2010 onsite round
-
-## Languages
-
-*   English - fluent
-*   German - intermediate (B1)
-*   Russian - native speaker
