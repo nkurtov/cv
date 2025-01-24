@@ -1,78 +1,62 @@
 # Nikolay Kurtov
-**Senior Software Engineer at Pagoda (NEAR Protocol)**
+**Senior Software Engineer at Irreducible.com**
 nkurtov@gmail.com
 +41795061891
 
+## Summary
+Seasoned C++/Rust engineer with deep expertise in high-performance computing, large-scale distributed systems and FPGA acceleration.
+
 ## Experience
 
-**Tech Lead - Node Team - NEAR Protocol** July 2021 - Present
+**System SW / Cryptography Engineer - Irreducible.com** 2024 - Present
 
-* Re-designed and implemented the new State Sync: https://gov.near.org/t/protocol-reinventing-state-sync/34567
-* Made releases smoother: fewer incidents and better experience for the community
-* Dramatically improved monitoring of the nodes: metrics, logs, tracing information (Grafana Tempo), monitoring of community nodes (needs opt-in)
-* Communicated with the community validators over multiple channels
-* For code contributions see https://github.com/nikurt
+* Achieved x12 speed up of Binius Sumchecks and Zerochecks using FPGA: (https://gitlab.com/IrreducibleOSS/binius)
+* Directed a junior team member to exploit parallelism in Evalcheck, boosting performance of Evalcheck x15.
+* Designed and deployed the software stack bridging Binius and FPGA drivers in production.
 
-**Tech Lead of YouTube Core SRE at Google** 2018 - June 2021
+**Tech Lead - Node Team - NEAR Protocol** 2021 - 2023
 
-Improved reliability and efficiency of `youtube.com` by:
+* Re-architected State Sync, increasing reliability and performance: https://gov.near.org/t/protocol-reinventing-state-sync/34567
+* Reduced release incidents and improved community validator experience
+* Enhanced node monitoring with advanced metrics, logs, and tracing (Grafana Tempo)
+* Code contributions: https://github.com/nikurt
 
-* Driving end-to-end success metrics up
-* Developing a dependency management framework for C++ micro-services
-* Getting new services production-ready and onboarding them to SRE
+**Senior Software Engineer at Google** 2011 - 2021
 
-**Knowledge Graph infrastructure at Google** 2016 - 2018
-Developed a new critical piece of infrastructure, improving reliability and throughput of the system. Designed and developed multiple components of the system, APIs for other teams.
-
-**Knowledge Graph quality at Google** 2015
-Improved Machine learning models reconciling music entities, affecting 0.3% of all web search traffic.
-
-**Geo logs processing at Google** 2014
-Extracted new metrics from usage logs and made them easily accessible to developers.
-
-**Geo data quality at Google** 2013
-Designed and implemented a high-precision machine learning system, removed duplicate business listings from the map of Russia.
-
-**Google Offers** 2011 - 2012
-Developed a system for personalized offers targeting both for email distribution and online distribution.
+* Tech Lead, YouTube Core SRE
+* * Drove end-to-end reliability initiatives for YouTube, boosting success metrics.
+* * Led a C++ microservice dependency management framework and production readiness process.
+* Knowledge Graph Infrastructure
+* * Built and optimized critical backend components, improving throughput and reliability.
+* * Designed APIs to help internal teams leverage Knowledge Graph data.
+* Knowledge Graph Quality
+* * Improved ML models for music entity reconciliation, impacting 0.3% of Google search traffic.
+* Geo Logs and Data Quality
+* * Designed an ML system to eliminate duplicate business listings in Russia and Vietnam.
+* * Extracted new usage metrics for product teams, improving feature development.
+* Google Offers
+* Developed a personalized offers system (email + online distribution).
 
 **Software Engineer at Intel** 2010 - 2011
-Optimized Intel C++ Compiler for benchmarks CPU2000 and EEMBC1.1 on Atom
+Optimized Intel C++ Compiler for CPU2000 and EEMBC1.1 on Atom
 
 **Intern Software Engineer at Intel** 2008 - 2010
-Developed distributed memory runtime for [Intel Concurrent Collections for C++](https://icnc.github.io/).
+Developed a distributed memory runtime for Intel Concurrent Collections for C++.
 
 **Intel Student Laboratory** 2008
-Added support for edge profiling in Apache Harmony Jitrino.JET compiler.
+Added edge profiling support to the Apache Harmony Jitrino.JET compiler.
 
 **xored software** 2007
-Quality Assurance, Webmaster, managed Continuous Integration and administered Debian servers.
+QA, CI, and administered Debian servers
 
 **SWSoft Student Laboratory** 2006
-Developed a 3D-physics engine for one game, and level generation and sound programming for another game.
+Created a 3D physics engine and handled level generation/sound for a game
 
 ## Skills
 
-* 2 years of experience with Rust
-* 14 years of experience with C++
-* 3 years of experience with Python
-* 1 year of experience with Go and Java
-* Fluency in Haskell and Java
-* Understand how some Blockchains work
-* Software reliability engineering
-* Large-scale systems design
-* Data structures, algorithms and complexity analysis
-* Shared and distributed memory parallel programming
-* Optimization for Intel microarchitecture
-
-## Open-source projects
-
-*   **Hive Qt** - a desktop client for playing [Hive](https://en.wikipedia.org/wiki/Hive_(game)), written in C++. https://bitbucket.org/orfest/hive_qt/src
-*   **AppleSID** - tracks signal amplitude of VLF radio stations to detect Solar Flares. Written in Rust. https://nest.pijul.com/orfest/applesid
-*   **TwilightAlign** - simple Rust tool for aligning Sun images. https://nest.pijul.com/orfest/twilightalign
-*   **Hive Web** - Web client for playing [Hive](https://en.wikipedia.org/wiki/Hive_(game)), written in Haskell. https://hub.darcs.net/orfest/hiveweb
-*   **OnlineJudge CLI** - a set of Python tools for command-line access to online judge systems: [UVa](http://onlinejudge.com), [Timus](http://acm.timus.ru), [Codeforces](http://codeforces.com). https://bitbucket.org/orfest/onlinejudge-cli/
-*   **TSP Flaming** - solution of the [travelling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) using the Simulated Annealing method. http://tspflaming.sourceforge.net
+* Languages: Rust (4 yrs), C++ (14 yrs), Python (3 yrs)
+* Expertise: High-performance computing (FPGA), SRE, blockchain protocols, distributed systems
+* Core Competencies: Data structures & algorithms, parallel/distributed programming, large-scale systems design
 
 ## Education
 
@@ -84,9 +68,8 @@ Developed a 3D-physics engine for one game, and level generation and sound progr
 
 ## Hobbies
 
-*   Swordfighting (HEMA). Won a cup and a 2nd place medal. Give saber fencing lessons. Entertained crowds by swordfighting.
+*   Swordfighting (HEMA). Assistant Coach. https://hemaratings.com/fighters/details/12545/
 *   Running, Marathon personal best time - 3h25m
-*   Climbing, Bouldering
 *   Astronomy. [Built a solar projection telescope](https://www.reddit.com/r/telescopes/comments/caxjjd/diy_sunspotter/)
 
 ## Programming Competitions
