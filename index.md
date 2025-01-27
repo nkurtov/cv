@@ -23,19 +23,19 @@ Seasoned C++/Rust engineer with deep expertise in high-performance computing, la
 
 **Senior Software Engineer at Google** 2011 - 2021
 
-* Tech Lead, YouTube Core SRE
+* Tech Lead, YouTube Core SRE (2.5 years)
 * * Drove end-to-end reliability initiatives for YouTube, boosting success metrics.
 * * Led a C++ microservice dependency management framework and production readiness process.
-* Knowledge Graph Infrastructure
+* Knowledge Graph Infrastructure (3 years)
 * * Built and optimized critical backend components, improving throughput and reliability.
 * * Designed APIs to help internal teams leverage Knowledge Graph data.
-* Knowledge Graph Quality
+* Knowledge Graph Quality (1 year)
 * * Improved ML models for music entity reconciliation, impacting 0.3% of Google search traffic.
-* Geo Logs and Data Quality
+* Geo Logs and Data Quality (1 year)
 * * Designed an ML system to eliminate duplicate business listings in Russia and Vietnam.
 * * Extracted new usage metrics for product teams, improving feature development.
-* Google Offers
-* Developed a personalized offers system (email + online distribution).
+* Google Offers (2 years)
+* * Developed a personalized offers system (email + online distribution).
 
 **Software Engineer at Intel** 2010 - 2011
 Optimized Intel C++ Compiler for CPU2000 and EEMBC1.1 on Atom
