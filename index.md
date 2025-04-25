@@ -1,7 +1,9 @@
 # Nikolay Kurtov
 **Senior Software Engineer at Irreducible.com**
-nkurtov@gmail.com
-+41795061891
+
+- Email: nkurtov@gmail.com  
+- Phone: +41795061891  
+- Telegram: http://t.me/nkurtov
 
 ## Summary
 Seasoned C++/Rust engineer with deep expertise in high-performance computing, large-scale distributed systems and FPGA acceleration.
@@ -10,6 +12,7 @@ Seasoned C++/Rust engineer with deep expertise in high-performance computing, la
 
 **System SW / Cryptography Engineer - Irreducible.com** 2024 - Present
 
+* Wrote the Xlang compiler, enabling users to define a program’s Intermediate Representation; Xlang generates code for custom hardware cores, achieving up to 99.5% utilization through software pipelining.
 * Achieved x12 speed up of Binius Sumchecks and Zerochecks using FPGA: (https://gitlab.com/IrreducibleOSS/binius)
 * Directed a junior team member to exploit parallelism in Evalcheck, boosting performance of Evalcheck x15.
 * Designed and deployed the software stack bridging Binius and FPGA drivers in production.
@@ -77,3 +80,4 @@ Created a 3D physics engine and handled level generation/sound for a game
 1. 14th place at the ACM ICPC World Finals 2010 in Harbin
 1. 27th place at the ACM ICPC World Finals 2011 in Orlando
 1. 11th place at the Yandex Open 2010 onsite round
+
