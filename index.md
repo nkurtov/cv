@@ -1,83 +1,57 @@
 # Nikolay Kurtov
-**Senior Software Engineer at Irreducible.com**
+**Senior Software Engineer | System Cryptography | Distributed Systems**
 
 - Email: nkurtov@gmail.com  
 - Phone: +41795061891  
-- Telegram: http://t.me/nkurtov
+- Telegram: [t.me/nkurtov](http://t.me/nkurtov)
 
 ## Summary
-Seasoned C++/Rust engineer with deep expertise in high-performance computing, large-scale distributed systems and FPGA acceleration.
+Seasoned Software Engineer with 15+ years of experience specializing in high-performance computing, large-scale distributed systems, and hardware acceleration (FPGA). Proven track record of leading technical initiatives at Google and NEAR Protocol, currently building the next generation of decentralized infrastructure at SubZero Labs (Rialo).
 
 ## Experience
 
-**System SW / Cryptography Engineer - Irreducible.com** 2024 - Present
+**Senior Software Engineer, REX Team — SubZero Labs** (July 2025 – Present)
+*   **Rialo Infrastructure:** Contributing to the core architecture of Rialo, a full-stack decentralized network designed for real-world applications and internet-scale performance.
+*   **REX (Runtime/Execution):** Part of the REX team focused on high-throughput, event-driven execution and SVM compatibility (proprietary codebase).
+*   **System Design:** Designing and implementing performance-critical components for a high-concurrency, low-latency consensus and execution environment.
 
-* Wrote the Xlang compiler, enabling users to define a program’s Intermediate Representation; Xlang generates code for custom hardware cores, achieving up to 99.5% utilization through software pipelining.
-* Achieved x12 speed up of Binius Sumchecks and Zerochecks using FPGA: (https://gitlab.com/IrreducibleOSS/binius)
-* Directed a junior team member to exploit parallelism in Evalcheck, boosting performance of Evalcheck x15.
-* Designed and deployed the software stack bridging Binius and FPGA drivers in production.
+**System SW / Cryptography Engineer — Irreducible.com** (2024 – June 2025)
+*   **Xlang Compiler:** Architected and implemented Xlang, a custom IR compiler for proprietary hardware cores. Achieved **99.5% hardware utilization** through advanced software pipelining and instruction scheduling.
+*   **FPGA Acceleration:** Delivered a **12x performance boost** for Binius Sumchecks and Zerochecks by offloading critical bottlenecks to FPGA ([open-source link](https://gitlab.com/IrreducibleOSS/binius)).
+*   **Team Leadership:** Mentored junior engineers to exploit fine-grained parallelism in Evalcheck, resulting in a **15x performance improvement**.
+*   **Production Deployment:** Designed the end-to-end software stack bridging high-level cryptographic protocols (Binius) with low-level FPGA drivers.
 
-**Tech Lead - Node Team - NEAR Protocol** 2021 - 2023
+**Tech Lead, Node Team — NEAR Protocol** (2021 – 2023)
+*   **State Sync Re-architecture:** Led the complete redesign of the State Sync mechanism, significantly improving protocol reliability and node synchronization speed ([design document](https://gov.near.org/t/protocol-reinventing-state-sync/34567)).
+*   **Operational Excellence:** Reduced release-blocking incidents and improved the developer/validator experience by enhancing node monitoring with advanced metrics, structured logging, and distributed tracing (Grafana Tempo).
+*   **Core Contributions:** Maintained and optimized core blockchain protocol logic in Rust.
 
-* Re-architected State Sync, increasing reliability and performance: https://gov.near.org/t/protocol-reinventing-state-sync/34567
-* Reduced release incidents and improved community validator experience
-* Enhanced node monitoring with advanced metrics, logs, and tracing (Grafana Tempo)
-* Code contributions: https://github.com/nikurt
+**Senior Software Engineer — Google** (2011 – 2021)
+*   **Tech Lead, YouTube Core SRE (2.5 years):** Directed end-to-end reliability for YouTube's global infrastructure. Led the development of a C++ microservice dependency framework and established production readiness standards for core services.
+*   **Knowledge Graph Infrastructure & Quality (4 years):**
+    *   Optimized backend components for massive-scale graph data, significantly increasing throughput.
+    *   Improved ML models for music entity reconciliation, impacting **0.3% of global Google Search traffic**.
+*   **Data Quality & Personalized Offers (3.5 years):** Developed ML-driven systems for deduplicating business listings and built high-scale personalized offer distribution systems (Email/Web).
 
-**Senior Software Engineer at Google** 2011 - 2021
-
-* Tech Lead, YouTube Core SRE (2.5 years)
-* * Drove end-to-end reliability initiatives for YouTube, boosting success metrics.
-* * Led a C++ microservice dependency management framework and production readiness process.
-* Knowledge Graph Infrastructure (3 years)
-* * Built and optimized critical backend components, improving throughput and reliability.
-* * Designed APIs to help internal teams leverage Knowledge Graph data.
-* Knowledge Graph Quality (1 year)
-* * Improved ML models for music entity reconciliation, impacting 0.3% of Google search traffic.
-* Geo Logs and Data Quality (1 year)
-* * Designed an ML system to eliminate duplicate business listings in Russia and Vietnam.
-* * Extracted new usage metrics for product teams, improving feature development.
-* Google Offers (2 years)
-* * Developed a personalized offers system (email + online distribution).
-
-**Software Engineer at Intel** 2010 - 2011
-Optimized Intel C++ Compiler for CPU2000 and EEMBC1.1 on Atom
-
-**Intern Software Engineer at Intel** 2008 - 2010
-Developed a distributed memory runtime for Intel Concurrent Collections for C++.
-
-**Intel Student Laboratory** 2008
-Added edge profiling support to the Apache Harmony Jitrino.JET compiler.
-
-**xored software** 2007
-QA, CI, and administered Debian servers
-
-**SWSoft Student Laboratory** 2006
-Created a 3D physics engine and handled level generation/sound for a game
+**Early Career (2006 – 2011)**
+*   **Intel (2008 – 2011):** Software Engineer / Intern. Optimized C++ compilers for Atom processors and developed distributed memory runtimes for Intel Concurrent Collections.
+*   **Intel Student Lab / xored / SWSoft (2006 – 2008):** Contributions to Apache Harmony compiler (edge profiling), Debian systems administration, and 3D game engine development.
 
 ## Skills
-
-* Languages: Rust (4 yrs), C++ (14 yrs), Python (3 yrs)
-* Expertise: High-performance computing (FPGA), SRE, blockchain protocols, distributed systems
-* Core Competencies: Data structures & algorithms, parallel/distributed programming, large-scale systems design
+*   **Languages:** Rust (4+ yrs), C++ (14+ yrs), Python, Go
+*   **Expertise:** High-Performance Computing (HPC), FPGA Acceleration, Distributed Systems, Blockchain Protocols, SRE & Scalability
+*   **Core Competencies:** System Architecture, Parallel Programming, Low-level Optimization, Cryptographic Engineering
 
 ## Education
-
-**MS in Computer Science**, 2009 - 2011
-[Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%)
-
-**BS in Computer Science**, 2005 - 2009
-[Novosibirsk State University](https://en.wikipedia.org/wiki/Novosibirsk_State_University). GPA 5.00 (100%)
-
-## Hobbies
-
-*   Swordfighting (HEMA). Assistant Coach. https://hemaratings.com/fighters/details/12545/
-*   Running, Marathon personal best time - 3h25m
-*   Astronomy. [Built a solar projection telescope](https://www.reddit.com/r/telescopes/comments/caxjjd/diy_sunspotter/)
+*   **MS in Computer Science**, Novosibirsk State University (2009 – 2011). GPA: 5.0/5.0
+*   **BS in Computer Science**, Novosibirsk State University (2005 – 2009). GPA: 5.0/5.0
 
 ## Programming Competitions
+*   **ACM ICPC World Finals:** 14th place (Harbin, 2010), 27th place (Orlando, 2011)
+*   **Yandex Open:** 11th place (Onsite round, 2010)
 
-1. 14th place at the ACM ICPC World Finals 2010 in Harbin
-1. 27th place at the ACM ICPC World Finals 2011 in Orlando
-1. 11th place at the Yandex Open 2010 onsite round
+## Hobbies
+*   **HEMA (Swordfighting):** Assistant Coach. [Ranking](https://hemaratings.com/fighters/details/12545/)
+*   **Running:** Marathon Personal Best: 3h 25m
+*   **Astronomy:** Built a [DIY Solar Projection Telescope](https://www.reddit.com/r/telescopes/comments/caxjjd/diy_sunspotter/)
 
