@@ -24,7 +24,7 @@ Seasoned Software Engineer with 15+ years of experience specializing in high-per
 ### Senior Software Engineer — SubZero Labs, Rialo (July 2025 – Present)
 *   **REX (Real-world Execution):** Built the validator-side pipeline that lets on-chain programs call off-chain HTTP/WebSocket services deterministically: duty scheduling, replay from the commit index, result cache, RPC/CLI, metrics and tracing. Shipped a live stock-price demo on top of it.
 *   **Confidential REX:** Delivered threshold-encrypted requests end to end — **DKG** ceremony lifecycle (retries, disaster recovery, reshare), TEE-committee dispatch, partial-decrypt/combine — with a **Stateright** model of the key lifecycle; cut the encrypted pipeline latency pad **30s → 10s**.
-*   **Zero-downtime upgrades:** Own the no-re-genesis workstream on the critical path to mainnet: on-chain feature management (scheduled activation, two-step authority transfer), versioned persisted formats with golden-byte compatibility tests, epoch-keyed component config, and a nightly **rolling-upgrade e2e** from each deployed network to `main`.
+*   **Zero-downtime upgrades:** Own the no-re-genesis workstream: on-chain feature management (scheduled activation, two-step authority transfer), versioned persisted formats with golden-byte compatibility tests, epoch-keyed component config, and a nightly **rolling-upgrade e2e** from each deployed network to `main`.
 *   **Consensus & execution correctness:** Fixed epoch-handover liveness bugs (dying epochs restored on restart, Ready withheld for unrunnable epochs) and **WriteSet non-determinism** across restarts; split a 5k-line `bank.rs`; removed the inherited Solana `FeatureSet` machinery.
 *   **Specs & throughput:** Author of the **NORTHSTAR** contracts for REX, DKG, protocol upgrades, genesis and staking; ~800 merged PRs in 16 months.
 
@@ -39,7 +39,7 @@ Seasoned Software Engineer with 15+ years of experience specializing in high-per
 *   **Operational Excellence:** Reduced release-blocking incidents and improved the developer/validator experience by enhancing node monitoring with advanced metrics, structured logging, and **distributed tracing** (Grafana Tempo).
 *   **Core Contributions:** Maintained and optimized core blockchain protocol logic in **Rust**.
 
-### Senior Software Engineer — Google (2011 – 2021)
+### Senior Software Engineer / Tech Lead — Google (2011 – 2021)
 *   **Tech Lead, YouTube Core SRE (2.5 years):** Directed end-to-end reliability for YouTube's global infrastructure. Led the development of a C++ microservice dependency framework and established production readiness standards for core services.
 *   **Knowledge Graph Infrastructure & Quality (4 years):**
     *   Optimized backend components for massive-scale graph data, significantly increasing throughput.
