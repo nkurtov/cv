@@ -11,20 +11,22 @@ header-includes: |
 
 # Nikolay Kurtov
 \vspace{-0.5em}
-**Senior Software Engineer | System Cryptography | Distributed Systems**
+**Senior Software Engineer | Distributed Systems | Blockchain Protocols | Hardware Acceleration**
 \vspace{0.2em}
 
 [nkurtov@gmail.com](mailto:nkurtov@gmail.com) | +41795061891 | [t.me/nkurtov](http://t.me/nkurtov)
 
 ## Summary
-Seasoned Software Engineer with 15+ years of experience specializing in high-performance computing, large-scale distributed systems, and hardware acceleration (FPGA). Proven track record of leading technical initiatives at Google and NEAR Protocol, currently building the next generation of decentralized infrastructure at SubZero Labs (Rialo).
+Seasoned Software Engineer with 15+ years of experience specializing in high-performance computing, large-scale distributed systems, and hardware acceleration (FPGA). Proven track record of leading technical initiatives at Google and NEAR Protocol, currently building Rialo, a real-world-ready L1, at SubZero Labs: verifiable off-chain execution, threshold cryptography, and zero-downtime protocol upgrades.
 
 ## Experience
 
-### Senior Software Engineer, REX Team — SubZero Labs (July 2025 – Present)
-*   **Rialo Infrastructure:** Contributing to the core architecture of **Rialo**, a full-stack decentralized network designed for real-world applications and internet-scale performance.
-*   **REX (Runtime/Execution):** Part of the REX team focused on high-throughput, event-driven execution and **SVM compatibility** (proprietary codebase).
-*   **System Design:** Designing and implementing performance-critical components for a high-concurrency, low-latency consensus and execution environment.
+### Senior Software Engineer — SubZero Labs, Rialo (July 2025 – Present)
+*   **REX (Real-world Execution):** Built the validator-side pipeline that lets on-chain programs call off-chain HTTP/WebSocket services deterministically: duty scheduling, replay from the commit index, result cache, RPC/CLI, metrics and tracing. Shipped a live stock-price demo on top of it.
+*   **Confidential REX:** Delivered threshold-encrypted requests end to end — **DKG** ceremony lifecycle (retries, disaster recovery, reshare), TEE-committee dispatch, partial-decrypt/combine — with a **Stateright** model of the key lifecycle; cut the encrypted pipeline latency pad **30s → 10s**.
+*   **Zero-downtime upgrades:** Own the no-re-genesis workstream on the critical path to mainnet: on-chain feature management (scheduled activation, two-step authority transfer), versioned persisted formats with golden-byte compatibility tests, epoch-keyed component config, and a nightly **rolling-upgrade e2e** from each deployed network to `main`.
+*   **Consensus & execution correctness:** Fixed epoch-handover liveness bugs (dying epochs restored on restart, Ready withheld for unrunnable epochs) and **WriteSet non-determinism** across restarts; split a 5k-line `bank.rs`; removed the inherited Solana `FeatureSet` machinery.
+*   **Specs & throughput:** Author of the **NORTHSTAR** contracts for REX, DKG, protocol upgrades, genesis and staking; ~800 merged PRs in 16 months.
 
 ### System SW / Cryptography Engineer — Irreducible.com (2024 – June 2025)
 *   **Xlang Compiler:** Architected and implemented **Xlang**, a custom IR compiler for proprietary hardware cores. Achieved **99.5% hardware utilization** through advanced software pipelining and instruction scheduling.
@@ -49,8 +51,8 @@ Seasoned Software Engineer with 15+ years of experience specializing in high-per
 *   **Intel Student Lab / xored / SWSoft (2006 – 2008):** Contributions to Apache Harmony compiler (edge profiling), Debian systems administration, and 3D game engine development.
 
 ## Skills
-*   **Languages:** Rust (4+ yrs), C++ (14+ yrs), Python, Go
-*   **Expertise:** High-Performance Computing (HPC), FPGA Acceleration, Distributed Systems, Blockchain Protocols, SRE & Scalability
+*   **Languages:** Rust (5+ yrs), C++ (14+ yrs), Python, Go
+*   **Expertise:** Distributed Systems, Blockchain Protocols, Threshold Cryptography & TEEs, High-Performance Computing (HPC), FPGA Acceleration, SRE & Scalability
 *   **Core Competencies:** System Architecture, Parallel Programming, Low-level Optimization, Cryptographic Engineering
 
 ## Education
